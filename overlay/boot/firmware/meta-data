@@ -4,4 +4,4 @@
 #
 # https://cloudinit.readthedocs.io/
 
-instance_id: cloud-image
+instance_id: brahma-instance
